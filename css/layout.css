@@ -622,6 +622,10 @@ ul#nav li.active a { color: #11ABB0; }
 	color: #fff;
 }
 
+img.cat-item {
+margin-left: 80px;
+}
+
 
 /* ================================================================== */
 
