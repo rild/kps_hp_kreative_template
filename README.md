@@ -1,4 +1,9 @@
+#Sample Image
+browser
+<img src="sample/sample_browser.png"/>
 
+android
+<img src="sample/sample_android.png"/>
 ==================================================================================================
 
 KREATIVE is a fully responsive html5/CSS3 template. It has a simple clean design suitable for 
