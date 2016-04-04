@@ -6,9 +6,11 @@ thanks to kreative template
 #Sample Image
 
 browser
+
 <img src="sample/sample_browser.png"/>
 
 android
+
 <img src="sample/sample_android.png"/>
 
 ==================================================================================================
