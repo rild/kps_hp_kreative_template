@@ -1,3 +1,7 @@
+this is source of kps (keio piano sosiety, piano circle of keio uni)'s hp
+thanks to kreative template
+
+
 #Sample Image
 browser
 <img src="sample/sample_browser.png"/>
