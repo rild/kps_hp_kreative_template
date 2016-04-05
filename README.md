@@ -9,7 +9,7 @@ browser
 
 <img src="sample/sample_browser.png"/>
 
-android
+mobile
 
 <img src="sample/sample_android.png"/>
 
