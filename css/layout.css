@@ -269,37 +269,37 @@ ul#nav li.active a { color: #11ABB0; }
 
 /* ================================================================== */
 
-#services {
+#concerts {
    background: #1b1e21 url(../images/patterns/servicesbg.png);
    padding-top: 156px;
    padding-bottom: 120px;
    color: #4E565F;
 }
 
-#services a, #services a:visited  { color: #C4C4C4; }
-#services a:hover, #services a:focus { color: #11ABB0; }
+#concerts a, #concerts a:visited  { color: #C4C4C4; }
+#concerts a:hover, #concerts a:focus { color: #11ABB0; }
 
-#services .section-head h2 { color: #11ABB0; }
-#services .section-head p.desc,
-#services .section-head .intro { color: #57606B; }
+#concerts .section-head h2 { color: #11ABB0; }
+#concerts .section-head p.desc,
+#concerts .section-head .intro { color: #57606B; }
 
-.services-wrapper { margin-top: 42px; }
-.services-wrapper .col {
+.concerts-wrapper { margin-top: 42px; }
+.concerts-wrapper .col {
    width: 33.33333%;
    margin-bottom: 30px;
 }
-.services-wrapper h2 {
+.concerts-wrapper h2 {
    font: 16px/24px montserrat-bold, sans-serif;
    letter-spacing: 1.5px;
    text-transform: uppercase;
    color: #C4C4C4;
    margin-bottom: 18px;
 }
-.services-wrapper p {
+.concerts-wrapper p {
    font-size: 16px;
    line-height: 30px;
 }
-#services .services-wrapper i { margin-right: 10px; }
+#concerts .concerts-wrapper i { margin-right: 10px; }
 
 
 /* ================================================================== */
@@ -1207,7 +1207,7 @@ footer .social-links li:first-child { margin-left: 0; }
 @media only screen and (max-width: 836px) {
 
    /* adjust sections padding top */
-   #services, #portfolio,
+   #concerts, #portfolio,
    #journal, #about { padding-top: 120px; }
 
    /* adjust font size */
@@ -1219,10 +1219,10 @@ footer .social-links li:first-child { margin-left: 0; }
 
    /* services section
    -------------------------------------------------------------------- */
-   #services .section-head .col { width: 100%; }
-   #services .services-wrapper { margin-top: 12px; }
-   #services .services-wrapper .col { width: 50%; }
-   #services .services-wrapper .col { margin-bottom: 0; }
+   #concerts .section-head .col { width: 100%; }
+   #concerts .concerts-wrapper { margin-top: 12px; }
+   #concerts .concerts-wrapper .col { width: 50%; }
+   #concerts .concerts-wrapper .col { margin-bottom: 0; }
 
    /* portfolio section
    -------------------------------------------------------------------- */
